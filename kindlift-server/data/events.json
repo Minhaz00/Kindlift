@@ -1,0 +1,93 @@
+[
+    {
+      "eventId": "1",
+      "name": "Education for All",
+      "org": "Global Education Foundation",
+      "date": "2024-02-15",
+      "platform": "Google Meet",
+      "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+      "department": "Education"
+    },
+    {
+      "eventId": "2",
+      "name": "Health Awareness Campaign",
+      "org": "Healthy World Initiative",
+      "date": "2024-03-10",
+      "platform": "Zoom",
+      "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+      "department": "Healthcare"
+    },
+    {
+      "eventId": "3",
+      "name": "Clean Energy Symposium",
+      "org": "Green Earth Foundation",
+      "date": "2024-04-22",
+      "platform": "Microsoft Teams",
+      "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+      "department": "Environmental Sustainability"
+    },
+    {
+      "eventId": "4",
+      "name": "Food Drive for the Needy",
+      "org": "Feeding Hope Organization",
+      "date": "2024-05-05",
+      "platform": "WebEx",
+      "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+      "department": "Food Security"
+    },
+    {
+      "eventId": "5",
+      "name": "Tech for Good Hackathon",
+      "org": "Tech4Change",
+      "date": "2024-06-20",
+      "platform": "Zoom",
+      "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+      "department": "Technology and Innovation"
+    },
+    {
+        "eventId": "6",
+        "name": "Art for a Cause Exhibition",
+        "org": "Creative Hearts Foundation",
+        "date": "2024-07-15",
+        "platform": "Zoom",
+        "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+        "department": "Art and Culture"
+      },
+      {
+        "eventId": "7",
+        "name": "Empowering Women Symposium",
+        "org": "Women Empowerment Network",
+        "date": "2024-08-08",
+        "platform": "Google Meet",
+        "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+        "department": "Gender Equality"
+      },
+      {
+        "eventId": "8",
+        "name": "Youth Leadership Summit",
+        "org": "Future Leaders Foundation",
+        "date": "2024-09-25",
+        "platform": "Microsoft Teams",
+        "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+        "department": "Youth Development"
+      },
+      {
+        "eventId": "9",
+        "name": "Clean Water for All Campaign",
+        "org": "Water for Life Initiative",
+        "date": "2024-10-12",
+        "platform": "WebEx",
+        "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+        "department": "Water and Sanitation"
+      },
+      {
+        "eventId": "10",
+        "name": "Inclusive Sports Day",
+        "org": "Sports for All Foundation",
+        "date": "2024-11-18",
+        "platform": "Zoom",
+        "banner": "https://th.bing.com/th/id/OIP.bV_iz_Mqj-UIJjQ-0vbZsAHaEp?w=626&h=393&rs=1&pid=ImgDetMain",
+        "department": "Inclusive Sports"
+      }
+  ]
+  
