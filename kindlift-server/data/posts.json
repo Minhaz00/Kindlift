@@ -1,0 +1,73 @@
+[
+    {
+      "pubDate": "2023-08-01T11:39:15.949Z",
+      "postDetails": "Exciting news! Today, we successfully completed a clean water project in a rural community. Thanks to your support, we've made a lasting impact on the lives of many. #CleanWaterForAll",
+      "postImage": "https://example.com/clean_water_project.jpg",
+      "author": "Humanitarian Aid Organization",
+      "authorId": "fyNRRSUakLMY1nXdZp4lPfZgcJx1",
+      "authorImg": "/static/media/humanitarian_aid_logo.png",
+      "likes": [ "user123", "user456" ],
+      "comments": []
+    },
+    {
+      "pubDate": "2023-08-05T14:20:30.123Z",
+      "postDetails": "Our team just distributed food and essential supplies to families affected by recent natural disasters. Together, we are making a difference in rebuilding lives. #HelpingHands",
+      "postImage": "https://example.com/relief_distribution.jpg",
+      "author": "Community Relief Foundation",
+      "authorId": "sNRRSUakLMY1nXdZp4lPfZgcJx2",
+      "authorImg": "/static/media/community_relief_logo.png",
+      "likes": [ "user789" ],
+      "comments": [ "Great work!", "How can I contribute?" ]
+    },
+    {
+        "pubDate": "2023-08-10T09:45:00.567Z",
+        "postDetails": "Education is a powerful tool for change! Today, we inaugurated a new school building in a remote area. Every child deserves access to quality education. #EducationForAll",
+        "postImage": "https://example.com/new_school_inauguration.jpg",
+        "author": "Global Education Initiative",
+        "authorId": "qRQRRIUakLMY1nXdZp4lPfZgcJx3",
+        "authorImg": "/static/media/global_education_logo.png",
+        "likes": [ "user101", "user202", "user303" ],
+        "comments": [ "Amazing work!", "Keep it up!" ]
+      },
+      {
+        "pubDate": "2023-08-15T16:30:45.890Z",
+        "postDetails": "Together, we planted thousands of trees to combat climate change. Small actions can have a big impact. Let's continue working towards a greener and healthier planet! #GreenEarth",
+        "postImage": "https://example.com/tree_planting_campaign.jpg",
+        "author": "Environmental Conservation Society",
+        "authorId": "wYQRRIUakLMY1nXdZp4lPfZgcJx4",
+        "authorImg": "/static/media/environmental_society_logo.png",
+        "likes": [ "user404", "user505" ],
+        "comments": [ "Nature thanks you!", "How can I get involved?" ]
+      },
+      {
+        "pubDate": "2023-08-20T12:15:20.345Z",
+        "postDetails": "Empowering women is key to building strong communities. Our vocational training program has helped numerous women start their own businesses. #WomenEmpowerment",
+        "postImage": "https://example.com/women_empowerment_program.jpg",
+        "author": "EmpowerHer Foundation",
+        "authorId": "eWQRRIUakLMY1nXdZp4lPfZgcJx5",
+        "authorImg": "/static/media/empowerher_logo.png",
+        "likes": [ "user606" ],
+        "comments": [ "Inspirational!", "Supporting your cause." ]
+      },
+      {
+        "pubDate": "2023-08-25T18:00:10.789Z",
+        "postDetails": "Health is wealth! Our medical team conducted a free health camp, providing check-ups and essential medications to underserved communities. #HealthForAll",
+        "postImage": "https://example.com/free_health_camp.jpg",
+        "author": "Healthcare Outreach Organization",
+        "authorId": "aEQHRIUakLMY1nXdZp4lPfZgcJx6",
+        "authorImg": "/static/media/healthcare_outreach_logo.png",
+        "likes": [ "user707", "user808", "user909" ],
+        "comments": [ "Grateful for your services.", "How often do you organize these camps?" ]
+      },
+      {
+        "pubDate": "2023-08-30T14:50:55.222Z",
+        "postDetails": "Building homes, building hope! We've completed another housing project for families in need. Safe and secure shelter is a basic human right. #HousingForAll",
+        "postImage": "https://example.com/housing_project_completion.jpg",
+        "author": "Sheltering Hearts Foundation",
+        "authorId": "gTRQRIUakLMY1nXdZp4lPfZgcJx7",
+        "authorImg": "/static/media/sheltering_hearts_logo.png",
+        "likes": [ "user1010", "user1111" ],
+        "comments": [ "Congratulations!", "How can I contribute to future projects?" ]
+      }
+  ]
+  
